@@ -1,5 +1,3 @@
-const { read } = require('fs');
-
 function calculator(number1, number2, operator) {
     // Zaimplementujcie proszę tą funckję w taki sposób, aby zwracała wynik działania matematycznego 
     // pomiędzy dwoma przekazanymi liczbami. Działanie określa argument "operator".
